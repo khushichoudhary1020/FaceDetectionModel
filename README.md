@@ -14,6 +14,7 @@ Created a variable ‘face_cascade’ and used a module CascadeClassifier with t
 Inside a loop there are two conditions if the condition is true then capture whatever is in front of camera else break.
 Created a variable ‘cap’ and used a module VideoCapture with a parameter 0, 0 represents the default camera, change it if you have multiple cameras.
 
+
 •	Read a frame from the webcam
 Defining two different variables ‘ret’ and ‘frame’ and reading it from VideoCapture.
 
