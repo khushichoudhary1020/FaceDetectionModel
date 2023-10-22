@@ -1,5 +1,5 @@
 # FaceDetectionModel
-Face Detection
+Face Detection Model
 Face detection is the process of identifying and locating human faces within images or video frames. It is a fundamental step in various applications, such as facial recognition, emotion analysis, and object tracking. OpenCV is  an open-source computer vision library, offers a range of pre-trained models and functions for face detection.
 
 •	Importing cv2
